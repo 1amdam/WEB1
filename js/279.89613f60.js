@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[279],{6279:function(n,e,r){r.r(e),r.d(e,{default:function(){return l}});var t=r(3396);const u={class:"section-container"},c=(0,t._)("h2",null,"Menu 본문 구역",-1),s=[c];function a(n,e){return(0,t.wg)(),(0,t.iD)("div",u,s)}var i=r(89);const o={},f=(0,i.Z)(o,[["render",a]]);var l=f}}]);
+//# sourceMappingURL=279.89613f60.js.map
